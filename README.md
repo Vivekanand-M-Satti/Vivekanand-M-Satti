@@ -1,10 +1,10 @@
-<img width="860" height="485" alt="image" src="https://github.com/user-attachments/assets/4b057c7a-e256-430d-88e4-0cd494a9097b" /><!-- Typing Animation Header -->
+<!-- Typing Animation Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vivekanand M Satti+%F0%9F%91%8B;Aspiring+Embedded+Systems+Engineer+%26+Firmware+Developer;C+%7C+Embedded+C+%7C+Linux+Enthusiast;Hardware+Meets+Software+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vivekanand+M+Satti+%F0%9F%91%8B;Aspiring+Embedded+Systems+Engineer+%26+Firmware+Developer;C+%7C+Embedded+C+%7C+Linux+Enthusiast;Hardware+Meets+Software+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Vivekanand-M-Satti&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
   <a href="https://www.linkedin.com/in/vivekanand-satti-5294b027b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -14,7 +14,7 @@
   <a href="https://github.com/Vivekanand-M-Satti">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href = "https://leetcode.com/u/VIVEKANAND_M_SATTI">
+  <a href="https://leetcode.com/u/VIVEKANAND_M_SATTI">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
@@ -41,7 +41,7 @@ int main(void) {
     Developer me = {
         .name     = "Vivekanand M Satti",
         .role     = "Aspiring Embedded Systems Engineer & Firmware Enthusiast",
-        .location = "India",
+        .location = "India 🇮🇳",
         .interests = {
             "Microcontrollers & Device Drivers",
             "Hardware-Software Interaction",
@@ -157,11 +157,10 @@ int main(void) {
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | (https://www.linkedin.com/in/vivekanand-satti-5294b027b) |
-| 📧 Email | (mailto:vivekanandmsatti@gmail.com) |
-| 🌐 Portfolio | (https://github.com/Vivekanand-M-Satti) |
-| 🐙 GitHub | (https://github.com/Vivekanand-M-Satti) |
-| 🐙 LeetCode (https://leetcode.com/u/VIVEKANAND_M_SATTI)|
+| 💼 LinkedIn | [linkedin.com/in/vivekanand-satti-5294b027b](https://www.linkedin.com/in/vivekanand-satti-5294b027b) |
+| 📧 Email | [vivekanandmsatti@gmail.com](mailto:vivekanandmsatti@gmail.com) |
+| 🐙 GitHub | [github.com/Vivekanand-M-Satti](https://github.com/Vivekanand-M-Satti) |
+| 🟨 LeetCode | [leetcode.com/u/VIVEKANAND_M_SATTI](https://leetcode.com/u/VIVEKANAND_M_SATTI) |
 
 </div>
 
